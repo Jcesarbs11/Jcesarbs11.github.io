@@ -1,0 +1,90 @@
+{
+  "ultimaActualizacion": "2026-09-24",
+  "fuente": "Parámetros normativos y fiscales estimados de referencia (CCT IMSS-SNTSS y LISR)",
+  "leyendaObligatoria": "Cálculo estimado con fines informativos. Tu tarjetón oficial es la referencia válida.",
+  "aguinaldo": {
+    "diasBaseContrato": 90,
+    "diasMinimosLey": 15,
+    "notas": "En el IMSS comúnmente se contemplan hasta 3 meses de salario tabulado para trabajadores con año completo conforme al CCT."
+  },
+  "primaVacacional": {
+    "porcentajeMinimo": 25.0,
+    "porcentajeContractualEstimado": 50.0,
+    "diasVacacionesBase": 20,
+    "notas": "El porcentaje contractual y días varían conforme a la antigüedad institucional estipulada en el CCT."
+  },
+  "simuladorPrestamo": {
+    "tasaAnualEstimadaPorDefecto": 12.0,
+    "plazosDisponiblesQuincenas": [12, 24, 36, 48],
+    "montoMinimo": 1000.0,
+    "montoMaximo": 200000.0
+  },
+  "tablaIsrQuincenal": [
+    {
+      "limiteInferior": 0.01,
+      "limiteSuperior": 372.45,
+      "cuotaFija": 0.00,
+      "porcentajeExcedente": 1.92
+    },
+    {
+      "limiteInferior": 372.46,
+      "limiteSuperior": 3161.40,
+      "cuotaFija": 7.15,
+      "porcentajeExcedente": 6.40
+    },
+    {
+      "limiteInferior": 3161.41,
+      "limiteSuperior": 5556.00,
+      "cuotaFija": 185.65,
+      "porcentajeExcedente": 10.88
+    },
+    {
+      "limiteInferior": 5556.01,
+      "limiteSuperior": 6458.70,
+      "cuotaFija": 446.24,
+      "porcentajeExcedente": 16.00
+    },
+    {
+      "limiteInferior": 6458.71,
+      "limiteSuperior": 7733.85,
+      "cuotaFija": 590.67,
+      "porcentajeExcedente": 17.92
+    },
+    {
+      "limiteInferior": 7733.86,
+      "limiteSuperior": 15599.40,
+      "cuotaFija": 819.38,
+      "porcentajeExcedente": 21.36
+    },
+    {
+      "limiteInferior": 15599.41,
+      "limiteSuperior": 24584.70,
+      "cuotaFija": 2499.07,
+      "porcentajeExcedente": 23.52
+    },
+    {
+      "limiteInferior": 24584.71,
+      "limiteSuperior": 46944.60,
+      "cuotaFija": 4613.51,
+      "porcentajeExcedente": 30.00
+    },
+    {
+      "limiteInferior": 46944.61,
+      "limiteSuperior": 62592.75,
+      "cuotaFija": 11321.48,
+      "porcentajeExcedente": 32.00
+    },
+    {
+      "limiteInferior": 62592.76,
+      "limiteSuperior": 187778.25,
+      "cuotaFija": 16328.89,
+      "porcentajeExcedente": 34.00
+    },
+    {
+      "limiteInferior": 187778.26,
+      "limiteSuperior": 999999999.00,
+      "cuotaFija": 58891.96,
+      "porcentajeExcedente": 35.00
+    }
+  ]
+}

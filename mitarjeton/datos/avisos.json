@@ -1,0 +1,30 @@
+{
+  "ultimaActualizacion": "2026-09-24",
+  "fuente": "Panel Informativo de la App Independiente",
+  "avisos": [
+    {
+      "id": "aviso-1",
+      "titulo": "Saturación en el Portal Oficial",
+      "descripcion": "En los días de quincena el portal de tarjetones suele presentar saturación temporal. Te sugerimos ingresar en horarios matutinos tempranos o nocturnos. Tus tarjetones ya guardados aquí están siempre disponibles sin conexión.",
+      "fecha": "2026-09-20",
+      "tipo": "alerta",
+      "prioridad": "alta"
+    },
+    {
+      "id": "aviso-2",
+      "titulo": "Disponibilidad de Tarjetones en Días Festivos",
+      "descripcion": "Recuerda que si el día de pago coincide con un día inhábil o puente bancario, la emisión digital puede anticiparse o retrasarse según las delegaciones correspondientes.",
+      "fecha": "2026-09-15",
+      "tipo": "informativo",
+      "prioridad": "media"
+    },
+    {
+      "id": "aviso-3",
+      "titulo": "Seguridad y Privacidad de tus Datos",
+      "descripcion": "Todos los comprobantes PDF y conceptos que agregues a tu bóveda se almacenan de manera local y encriptada en tu propio dispositivo. Nunca compartimos tu información.",
+      "fecha": "2026-09-01",
+      "tipo": "seguridad",
+      "prioridad": "normal"
+    }
+  ]
+}

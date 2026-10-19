@@ -1,0 +1,72 @@
+{
+  "ultimaActualizacion": "2026-09-24",
+  "fuente": "Directorio de convenios comerciales y turísticos para agremiados",
+  "promociones": [
+    {
+      "id": "promo-hoteles-cancun",
+      "titulo": "Descuento en Hospedaje Familiar Riviera Maya",
+      "categoria": "Turismo",
+      "estado": "Quintana Roo",
+      "empresa": "Cadena Hotelera del Sol",
+      "descuento": "Hasta 25% de descuento",
+      "vigencia": "31 de Diciembre de 2026",
+      "comoAplicar": "Presenta tu último tarjetón de pago o credencial de trabajador/pensionado al momento de reservar en ventanilla o vía telefónica.",
+      "enlaceWeb": "URL_PENDIENTE"
+    },
+    {
+      "id": "promo-opticas-nacional",
+      "titulo": "Examen Visual y Armazones Graduados",
+      "categoria": "Salud",
+      "estado": "Nacional",
+      "empresa": "Ópticas Visión Familiar",
+      "descuento": "30% en micas y 15% en armazones",
+      "vigencia": "Permanente 2026",
+      "comoAplicar": "Muestra tu tarjetón impreso o digital en sucursales autorizadas de la República.",
+      "enlaceWeb": "URL_PENDIENTE"
+    },
+    {
+      "id": "promo-universidad-cdmx",
+      "titulo": "Becas en Licenciaturas y Posgrados en Línea",
+      "categoria": "Educación",
+      "estado": "Ciudad de México",
+      "empresa": "Instituto de Estudios Avanzados",
+      "descuento": "40% de beca en colegiaturas",
+      "vigencia": "Ciclo escolar 2026-2027",
+      "comoAplicar": "Aplica para trabajadores activos, jubilados y familiares directos con constancia de servicios.",
+      "enlaceWeb": "URL_PENDIENTE"
+    },
+    {
+      "id": "promo-parque-jalisco",
+      "titulo": "Entradas a Parque Acuático y Balneario",
+      "categoria": "Entretenimiento",
+      "estado": "Jalisco",
+      "empresa": "Balneario Las Palmas",
+      "descuento": "2x1 en admisión general de martes a viernes",
+      "vigencia": "Noviembre 2026",
+      "comoAplicar": "Presenta tu identificación oficial y tarjetón en taquilla.",
+      "enlaceWeb": "URL_PENDIENTE"
+    },
+    {
+      "id": "promo-farmacias-nl",
+      "titulo": "Bonificación en Medicamento Genérico y de Patente",
+      "categoria": "Salud",
+      "estado": "Nuevo León",
+      "empresa": "Farmacias Unidas del Norte",
+      "descuento": "10% en monedero electrónico",
+      "vigencia": "31 de Diciembre de 2026",
+      "comoAplicar": "Registra tu número de afiliación o matrícula en mostrador.",
+      "enlaceWeb": "URL_PENDIENTE"
+    },
+    {
+      "id": "promo-seguros-nacional",
+      "titulo": "Póliza de Auto y Gastos Funerarios con Tarifa Preferencial",
+      "categoria": "Servicios",
+      "estado": "Nacional",
+      "empresa": "Seguros Protección Total",
+      "descuento": "Tarifa grupal especial con pago mensual",
+      "vigencia": "Permanente 2026",
+      "comoAplicar": "Cotiza directamente con el asesor del convenio institucional.",
+      "enlaceWeb": "URL_PENDIENTE"
+    }
+  ]
+}
